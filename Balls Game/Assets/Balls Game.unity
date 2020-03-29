@@ -338,7 +338,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Perdeu, e pau no cu do cego
+  m_Text: 'Fim de jogo, jogar novamente?
+
+'
 --- !u!222 &557054653
 CanvasRenderer:
   m_ObjectHideFlags: 0
